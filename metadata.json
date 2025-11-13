@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Vaani – AI Audio Transcriber",
+  "description": "An intelligent web application that uses the Gemini API to transcribe, translate, and summarize audio and video files. Users can upload local files or record directly from their microphone, with options for language selection and summary length.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
